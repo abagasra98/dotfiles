@@ -1,0 +1,11 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>seton</find>
+      <find>setOnItemClickListener</find>
+      <find>digitNumTextView</find>
+      <find>textView2</find>
+      <find>app_name</find>
+    </findStrings>
+  </component>
+</application>

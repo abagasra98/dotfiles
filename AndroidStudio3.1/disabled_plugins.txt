@@ -1,0 +1,4 @@
+CVS
+Subversion
+com.android.tools.games
+org.jetbrains.plugins.github

@@ -1,0 +1,113 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="Wildhacks2016" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.1,config.force.push.enabled,config.warn.about.detached.enabled" collectionTime="1480146928944" />
+      <project id="Wildhacks-Project" values="config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.save.policy.STASH,data.remote.branches.count.1,config.force.push.enabled,data.local.branches.count.1,config.warn.about.crlf.enabled" collectionTime="1479539532471" />
+      <project id="MyApplication" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled" collectionTime="1474858165280" />
+      <project id="AndroidBrowser" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH" collectionTime="1475449866636" />
+      <project id="BookLibrary" values="config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1479335133024" />
+      <project id="Wildhacks" values="config.warn.about.detached.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,data.remote.branches.count.1,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1479540444678" />
+      <project id="MyFirstApp" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.save.policy.STASH" collectionTime="1474785213882" />
+      <project id="Sunshine-Version-2" values="data.remote.branches.count.30+,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1480148632179" />
+      <project id="Password" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1489260676121" />
+    </group>
+    <group name="language-level">
+      <project id="Wildhacks2016" values="JDK_1_7,JDK_1_8" collectionTime="1480146928931" />
+      <project id="Wildhacks-Project" values="JDK_1_3" collectionTime="1479539532469" />
+      <project id="MyApplication" values="JDK_1_8,JDK_1_7" collectionTime="1474858165279" />
+      <project id="AndroidBrowser" values="JDK_1_7,JDK_1_8" collectionTime="1475449866635" />
+      <project id="BookLibrary" values="JDK_1_7,JDK_1_8" collectionTime="1479335133023" />
+      <project id="Wildhacks" values="JDK_1_7" collectionTime="1479540444678" />
+      <project id="MyFirstApp" values="JDK_1_7" collectionTime="1474785213880" />
+      <project id="Sunshine-Version-2" values="JDK_1_7,JDK_1_8" collectionTime="1480148632179" />
+      <project id="Password" values="JDK_1_7" collectionTime="1489260676115" />
+    </group>
+    <group name="file-type">
+      <project id="Wildhacks2016" values="AIDL,IDEA_MODULE,Groovy,XML,Images,PLAIN_TEXT,Properties,JAVA,ProGuard File,ARCHIVE" collectionTime="1480146928887" />
+      <project id="Wildhacks-Project" values="IDEA_MODULE,XML,PLAIN_TEXT" collectionTime="1479539532464" />
+      <project id="MyApplication" values="ARCHIVE,PLAIN_TEXT,IDEA_MODULE,Properties,UNKNOWN,Groovy,XML,ProGuard File,AIDL,Images,JAVA" collectionTime="1474858165260" />
+      <project id="AndroidBrowser" values="XML,UNKNOWN,AIDL,PLAIN_TEXT,ARCHIVE,Groovy,ProGuard File,Images,Properties,IDEA_MODULE,JAVA" collectionTime="1475449866602" />
+      <project id="BookLibrary" values="AIDL,IDEA_MODULE,XML,Properties,ProGuard File,UNKNOWN,JAVA,Images,Groovy,PLAIN_TEXT,ARCHIVE" collectionTime="1479335132994" />
+      <project id="Wildhacks" values="JAVA,PLAIN_TEXT,ProGuard File,Images,AIDL,XML,Groovy,ARCHIVE,IDEA_MODULE,UNKNOWN,Properties" collectionTime="1479540444666" />
+      <project id="MyFirstApp" values="JAVA,Images,UNKNOWN,AIDL,ProGuard File,IDEA_MODULE,ARCHIVE,XML,Groovy,Properties,PLAIN_TEXT" collectionTime="1474785213859" />
+      <project id="Sunshine-Version-2" values="AIDL,Images,Groovy,ARCHIVE,JAVA,PLAIN_TEXT,IDEA_MODULE,ProGuard File,Properties,XML" collectionTime="1480148632177" />
+      <project id="Password" values="ProGuard File,ARCHIVE,PLAIN_TEXT,UNKNOWN,AIDL,JAVA,XML,Groovy,IDEA_MODULE,Properties,Images" collectionTime="1489260676079" />
+    </group>
+    <group name="vcs">
+      <project id="Wildhacks-Project" values="Git" collectionTime="1479539532420" />
+      <project id="Sunshine-Version-2" values="Git" collectionTime="1480148632097" />
+      <project id="Wildhacks" values="Git" collectionTime="1479540444580" />
+      <project id="Wildhacks2016" values="Git" collectionTime="1480146928606" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="Wildhacks" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1479540444678" />
+    </group>
+    <group name="frameworks">
+      <project id="MyFirstApp" values="android,java-gradle,android-gradle" collectionTime="1474785213810" />
+      <project id="MyApplication" values="android,android-gradle,java-gradle" collectionTime="1474858165105" />
+      <project id="Wildhacks2016" values="android-gradle,java-gradle,android" collectionTime="1480146928606" />
+      <project id="BookLibrary" values="java-gradle,android,android-gradle" collectionTime="1479335132877" />
+      <project id="Wildhacks" values="android-gradle,java-gradle,android" collectionTime="1479540444580" />
+      <project id="AndroidBrowser" values="android-gradle,android,java-gradle" collectionTime="1475449866436" />
+      <project id="Sunshine-Version-2" values="android-gradle,android,java-gradle" collectionTime="1480148632097" />
+      <project id="Password" values="java-gradle,android-gradle,android" collectionTime="1489260675990" />
+    </group>
+    <group name="module type">
+      <project id="Wildhacks2016" values="JAVA_MODULE" collectionTime="1480146928607" />
+      <project id="Wildhacks-Project" values="WEB_MODULE" collectionTime="1479539532421" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1474858165105" />
+      <project id="AndroidBrowser" values="JAVA_MODULE" collectionTime="1475449866436" />
+      <project id="BookLibrary" values="JAVA_MODULE" collectionTime="1479335132877" />
+      <project id="Wildhacks" values="JAVA_MODULE" collectionTime="1479540444580" />
+      <project id="MyFirstApp" values="JAVA_MODULE" collectionTime="1474785213810" />
+      <project id="Sunshine-Version-2" values="JAVA_MODULE" collectionTime="1480148632097" />
+      <project id="Password" values="JAVA_MODULE" collectionTime="1489260675990" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="MyFirstApp" values="AndroidRunConfigurationType" collectionTime="1474785213811" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1474858165106" />
+      <project id="Wildhacks2016" values="AndroidRunConfigurationType" collectionTime="1480146928608" />
+      <project id="BookLibrary" values="AndroidRunConfigurationType" collectionTime="1479335132878" />
+      <project id="Wildhacks" values="AndroidRunConfigurationType" collectionTime="1479540444580" />
+      <project id="AndroidBrowser" values="AndroidRunConfigurationType" collectionTime="1475449866440" />
+      <project id="Sunshine-Version-2" values="AndroidRunConfigurationType" collectionTime="1480148632097" />
+      <project id="Password" values="AndroidRunConfigurationType" collectionTime="1489260675991" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Build Variants].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="execute.AndroidJUnit.Coverage" count="1" />
+      <entry feature="execute.AndroidJUnit.Run" count="12" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="8" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="317" />
+      <entry feature="execute.AndroidTestRunConfigurationType.Run" count="38" />
+      <entry feature="ide.settings.Android SDK" count="1" />
+      <entry feature="ide.settings.Android_SDK" count="4" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Code Style" count="1" />
+      <entry feature="ide.settings.Color Scheme" count="1" />
+      <entry feature="ide.settings.Color Scheme Font" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="5" />
+      <entry feature="ide.settings.Edit_File_Template" count="1" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Menus_and_Toolbars" count="1" />
+      <entry feature="ide.settings.Plugins" count="3" />
+      <entry feature="ide.settings.Project_Structure" count="2" />
+      <entry feature="ide.settings.Spelling" count="1" />
+      <entry feature="ide.settings.Version_Control" count="2" />
+      <entry feature="ideaapp.started" count="49" />
+      <entry feature="terminal.mac" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.RunAndroidSdkManager" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+    </counts>
+  </component>
+</application>
