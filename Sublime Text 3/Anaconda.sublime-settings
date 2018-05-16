@@ -1,0 +1,16 @@
+/*
+  Anaconda User Settings
+*/
+{
+  "python_interpreter": "/usr/local/bin/python3",
+  "anaconda_linting": false,
+  "pep8": false,
+  "auto_complete_triggers":
+  [
+    {
+        "characters": ".",
+        "selector": "source"
+    }
+  ],
+  "auto_complete_delay": 0,
+}

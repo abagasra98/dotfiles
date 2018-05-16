@@ -1,0 +1,35 @@
+[
+  {"keys": ["tab"], "command": "expand_abbreviation_by_tab", "context":
+  [
+    { "operand": "source.js", "operator": "equal", "match_all": true, "key": "selector" },
+    { "match_all": true, "key": "selection_empty" },
+    { "operator": "equal", "operand": false, "match_all": true, "key": "has_next_field" },
+    { "operand": false, "operator": "equal", "match_all": true, "key": "auto_complete_visible" },
+    { "match_all": true, "key": "is_abbreviation" }
+  ]
+  },
+  {
+    "keys": ["super+shift+1"],
+    "command": "set_layout",
+    "args":
+    {
+      "cols": [0.0, 1.0],
+      "rows": [0.0, 1.0],
+      "cells": [[0, 0, 1, 1]]
+    }
+  },
+  {
+    "keys": ["super+shift+2"],
+    "command": "set_layout",
+    "args":
+    {
+      "cols": [0.0, 0.5, 1.0],
+      "rows": [0.0, 1.0],
+      "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+    }
+  },
+  { "keys": ["super+shift+i"], "command": "reindent" },
+  { "keys": ["super+\\"], "command": "toggle_side_bar" },
+  { "keys": ["super+shift+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+  { "keys": ["super+shift+r"], "command": "find_all_under" },
+]
