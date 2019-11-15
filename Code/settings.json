@@ -1,65 +1,61 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.iconTheme": "material-icon-theme",
-    "materialTheme.cache.workbench.settings": {
-        "themeColours": "Default"
-    },
-    "workbench.colorTheme": "Material Theme",
-    "editor.fontSize": 15,
-    // Controls the font family.
-    "editor.fontFamily": "Operator Mono",
-    "workbench.fontAliasing": "antialiased",
-    // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
-    "editor.lineHeight": 24,
-    // Enables font ligatures
-    "editor.fontLigatures": true,
-    "editor.tabSize": 2,
-    "editor.scrollBeyondLastLine": false,
-    "editor.renderWhitespace": "boundary",
-    // Controls if file decorations should use badges.
-    "explorer.decorations.badges": false,
-    "files.insertFinalNewline": true,
-    "python.pythonPath": "/usr/local/bin/python3",
-    "python.autoComplete.preloadModules": [
-        "numpy",
-        "matplotlib.pyplot"
-    ],
-    "python.autoComplete.addBrackets": true,
-    "python.jediPath": "/usr/local/lib/python3.6/site-packages/jedi",
-    "python.linting.enabled": false,
-    "python.linting.pylintArgs": [
-        "--indent-string=\"  \"",
-        "--disable=W0301"
-    ],
-    "telemetry.enableTelemetry": false,
-    "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/_site": true,
-        "**/tmp": true,
-        "**/*.pyc": true,
-        "**/*.asset-cache": true,
-        "**/*.jekyll-cache": true,
-        "**/*.tweet-cache": true,
-        "**/__pycache__": true,
-        "**/node_modules": true,
-        "**/bower_components": true
-    },
-    "git.confirmSync": false,
-    "remote.onstartup": false,
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact",
-    },
-    "emmet.triggerExpansionOnTab": true,
-    "window.zoomLevel": 0,
-    "git.autofetch": true,
-        // Format a file on save. A formatter must be available, the file must not be auto-saved, and editor must not be shutting down.
-    "editor.formatOnSave": true,
-    // Enable/disable default JavaScript formatter (For Prettier)
-    "javascript.format.enable": false,
-    // Use 'prettier-eslint' instead of 'prettier'. Other settings will only be fallbacks in case they could not be inferred from eslint rules.
-    "prettier.eslintIntegration": true
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Material Theme",
+  "editor.fontSize": 15,
+  // Controls the font family.
+  "editor.fontFamily": "Operator Mono",
+  "workbench.fontAliasing": "antialiased",
+  // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
+  "editor.lineHeight": 24,
+  // Enables font ligatures
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.scrollBeyondLastLine": false,
+  "editor.renderWhitespace": "boundary",
+  // Controls if file decorations should use badges.
+  "explorer.decorations.badges": false,
+  "files.insertFinalNewline": true,
+  "python.jediEnabled": false,
+  "python.pythonPath": "/usr/local/bin/python3",
+  "python.autoComplete.addBrackets": true,
+  "python.linting.enabled": false,
+  "python.linting.pylintEnabled": false,
+  "python.linting.pylintArgs": ["--indent-string=\"  \"", "--disable=W0301"],
+  "python.linting.mypyEnabled": false,
+  "python.formatting.autopep8Args": ["--indent-size=2"],
+  "telemetry.enableTelemetry": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/_site": true,
+    "**/tmp": true,
+    "**/*.pyc": true,
+    "**/*.asset-cache": true,
+    "**/*.jekyll-cache": true,
+    "**/*.tweet-cache": true,
+    "**/__pycache__": true,
+    "**/node_modules": true,
+    "**/bower_components": true
+  },
+  "git.confirmSync": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "window.zoomLevel": 0,
+  "git.autofetch": true,
+  // Format a file on save. A formatter must be available, the file must not be auto-saved, and editor must not be shutting down.
+  "editor.formatOnSave": true,
+  // Enable/disable default JavaScript formatter (For Prettier)
+  "javascript.format.enable": false,
+  // Use 'prettier-eslint' instead of 'prettier'. Other settings will only be fallbacks in case they could not be inferred from eslint rules.
+  "prettier.eslintIntegration": true,
+  "workbench.statusBar.feedback.visible": false,
+  "eslint.packageManager": "yarn",
+  "prettier.trailingComma": "es5"
 }
+

@@ -1,20 +1,70 @@
 // Place your key bindings in this file to overwrite the defaults
 [
-  { "key": "cmd+\\",                "command": "workbench.action.toggleSidebarVisibility" },
-  { "key": "cmd+shift+i",           "command": "editor.action.reindentlines" },
-  { "key": "cmd+shift+1",           "command": "workbench.action.moveEditorToFirstGroup" },
-  { "key": "cmd+shift+2",           "command": "workbench.action.splitEditor" },
-  { "key": "shift+cmd+r",           "command": "editor.action.selectHighlights",
-                                     "when": "editorFocus" },
-  { "key": "cmd+t",                 "command": "workbench.action.terminal.toggleTerminal" },
-  {"key":"cmd+0", "command":"workbench.action.openLastEditorInGroup"},
-  {"key":"cmd+1", "command":"workbench.action.openEditorAtIndex1"}, 
-  {"key":"cmd+2", "command":"workbench.action.openEditorAtIndex2"}, 
-  {"key":"cmd+3", "command":"workbench.action.openEditorAtIndex3"},
-  {"key":"cmd+4", "command":"workbench.action.openEditorAtIndex4"}, 
-  {"key":"cmd+5", "command":"workbench.action.openEditorAtIndex5"}, 
-  {"key":"cmd+6", "command":"workbench.action.openEditorAtIndex6"},
-  {"key":"cmd+7", "command":"workbench.action.openEditorAtIndex7"},
-  {"key":"cmd+8", "command":"workbench.action.openEditorAtIndex8"}, 
-  {"key":"cmd+9", "command":"workbench.action.openEditorAtIndex9"}
+  {
+    "key": "cmd+\\",
+    "command": "workbench.action.toggleSidebarVisibility"
+  },
+  {
+    "key": "cmd+shift+i",
+    "command": "editor.action.reindentlines"
+  },
+  {
+    "key": "cmd+shift+1",
+    "command": "workbench.action.moveEditorToFirstGroup"
+  },
+  {
+    "key": "cmd+shift+2",
+    "command": "workbench.action.splitEditor"
+  },
+  {
+    "key": "shift+cmd+r",
+    "command": "editor.action.selectHighlights",
+    "when": "editorFocus"
+  },
+  // { "key": "cmd+t",                 "command": "workbench.action.terminal.toggleTerminal" },
+  {
+    "key": "cmd+0",
+    "command": "workbench.action.lastEditorInGroup"
+  },
+  {
+    "key": "cmd+1",
+    "command": "workbench.action.openEditorAtIndex1"
+  },
+  {
+    "key": "cmd+2",
+    "command": "workbench.action.openEditorAtIndex2"
+  },
+  {
+    "key": "cmd+3",
+    "command": "workbench.action.openEditorAtIndex3"
+  },
+  {
+    "key": "cmd+4",
+    "command": "workbench.action.openEditorAtIndex4"
+  },
+  {
+    "key": "cmd+5",
+    "command": "workbench.action.openEditorAtIndex5"
+  },
+  {
+    "key": "cmd+6",
+    "command": "workbench.action.openEditorAtIndex6"
+  },
+  {
+    "key": "cmd+7",
+    "command": "workbench.action.openEditorAtIndex7"
+  },
+  {
+    "key": "cmd+8",
+    "command": "workbench.action.openEditorAtIndex8"
+  },
+  {
+    "key": "cmd+9",
+    "command": "workbench.action.openEditorAtIndex9"
+  },
+  {
+    "key": "cmd+t",
+    "command": "workbench.action.quickOpen"
+  }
 ]
+
