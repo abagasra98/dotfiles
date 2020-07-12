@@ -3,12 +3,10 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.colorTheme": "Material Theme",
   "editor.fontSize": 15,
-  // Controls the font family.
   "editor.fontFamily": "Operator Mono",
   "workbench.fontAliasing": "antialiased",
-  // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
+  // Use 0 to compute the lineHeight from the fontSize.
   "editor.lineHeight": 24,
-  // Enables font ligatures
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
   "editor.scrollBeyondLastLine": false,
@@ -21,9 +19,14 @@
   "python.autoComplete.addBrackets": true,
   "python.linting.enabled": false,
   "python.linting.pylintEnabled": false,
-  "python.linting.pylintArgs": ["--indent-string=\"  \"", "--disable=W0301"],
+  "python.linting.pylintArgs": [
+    "--indent-string=\"  \"",
+    "--disable=W0301"
+  ],
   "python.linting.mypyEnabled": false,
-  "python.formatting.autopep8Args": ["--indent-size=2"],
+  "python.formatting.autopep8Args": [
+    "--indent-size=2"
+  ],
   "telemetry.enableTelemetry": false,
   "files.exclude": {
     "**/.git": true,
