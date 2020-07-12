@@ -6,3 +6,6 @@ Editor/IDE/Terminal Configurations
 * Meslo LG M DZ Nerd Font (size 12 + anti-aliased)
 * zsh shell with oh-my-zsh
 * Pure prompt
+
+## Neovim
+* VimPlug
