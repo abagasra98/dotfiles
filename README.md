@@ -7,6 +7,15 @@ macOS Editor/IDE/Terminal Configurations
 * zsh shell with oh-my-zsh
 * Pure prompt
 
+## IntelliJ
+* Plugins:
+  * Material Theme UI
+  * Atom Material Icons
+  * google-java-format
+* Material Oceanic Theme
+* Material Theme - Default copy color scheme
+* Operator Mono font (size 15 with 1.3 line spacing)
+
 ## Neovim
 * VimPlug
 

@@ -1,0 +1,4 @@
+com.chrisrm.idea.MaterialThemeUI
+com.mallowigi
+google-java-format
+org.jetbrains.kotlin
