@@ -1,9 +1,5 @@
 [
   {
-    "key": "cmd+\\",
-    "command": "workbench.action.toggleSidebarVisibility"
-  },
-  {
     "key": "cmd+shift+i",
     "command": "editor.action.reindentlines"
   },
@@ -20,7 +16,10 @@
     "command": "editor.action.selectHighlights",
     "when": "editorFocus"
   },
-  // { "key": "cmd+t",                 "command": "workbench.action.terminal.toggleTerminal" },
+  {
+    "key": "cmd+t",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
   {
     "key": "cmd+0",
     "command": "workbench.action.lastEditorInGroup"
@@ -62,7 +61,135 @@
     "command": "workbench.action.openEditorAtIndex9"
   },
   {
-    "key": "cmd+t",
-    "command": "workbench.action.quickOpen"
-  }
+    "key": "cmd+g l",
+    "command": "extension.copyGitHubLinkToClipboard"
+  },
+  {
+    "key": "cmd+g o",
+    "command": "extension.openInGitHub"
+  },
+  {
+    "key": "ctrl+tab",
+    "command": "-workbench.action.quickOpenNavigateNextInEditorPicker",
+    "when": "inEditorsPicker && inQuickOpen"
+  },
+  {
+    "key": "ctrl+shift+tab",
+    "command": "-workbench.action.quickOpenNavigatePreviousInEditorPicker",
+    "when": "inEditorsPicker && inQuickOpen"
+  },
+  {
+    "key": "ctrl+shift+tab",
+    "command": "workbench.action.previousEditorInGroup"
+  },
+  {
+    "key": "ctrl+tab",
+    "command": "workbench.action.nextEditorInGroup"
+  },
+  {
+    "key": "cmd+r p",
+    "command": "copyRelativeFilePath",
+  },
+  {
+    "key": "cmd+e",
+    "command": "-actions.findWithSelection"
+  },
+  {
+    "key": "cmd+e",
+    "command": "workbench.actions.view.problems"
+  },
+  {
+    "key": "shift+cmd+m",
+    "command": "-workbench.actions.view.problems"
+  },
+  {
+    "key": "ctrl+b 1",
+    "command": "workbench.action.focusFirstEditorGroup"
+  },
+  {
+    "key": "cmd+1",
+    "command": "-workbench.action.focusFirstEditorGroup"
+  },
+  {
+    "key": "ctrl+b 2",
+    "command": "workbench.action.focusSecondEditorGroup"
+  },
+  {
+    "key": "cmd+2",
+    "command": "-workbench.action.focusSecondEditorGroup"
+  },
+  {
+    "key": "ctrl+b 3",
+    "command": "workbench.action.focusThirdEditorGroup"
+  },
+  {
+    "key": "cmd+3",
+    "command": "-workbench.action.focusThirdEditorGroup"
+  },
+  {
+    "key": "ctrl+b 4",
+    "command": "workbench.action.focusFourthEditorGroup"
+  },
+  {
+    "key": "cmd+4",
+    "command": "-workbench.action.focusFourthEditorGroup"
+  },
+  {
+    "key": "ctrl+b 5",
+    "command": "workbench.action.focusFifthEditorGroup"
+  },
+  {
+    "key": "cmd+5",
+    "command": "-workbench.action.focusFifthEditorGroup"
+  },
+  {
+    "key": "ctrl+b 6",
+    "command": "workbench.action.focusSixthEditorGroup"
+  },
+  {
+    "key": "cmd+6",
+    "command": "-workbench.action.focusSixthEditorGroup"
+  },
+  {
+    "key": "ctrl+b 7",
+    "command": "workbench.action.focusSeventhEditorGroup"
+  },
+  {
+    "key": "cmd+7",
+    "command": "-workbench.action.focusSeventhEditorGroup"
+  },
+  {
+    "key": "ctrl+b 8",
+    "command": "workbench.action.focusEighthEditorGroup"
+  },
+  {
+    "key": "cmd+8",
+    "command": "-workbench.action.focusEighthEditorGroup"
+  },
+  {
+    "key": "ctrl+alt+left",
+    "command": "-cursorWordPartLeft",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+alt+right",
+    "command": "-cursorWordPartRight",
+    "when": "textInputFocus"
+  },
+  {
+    "key": "ctrl+alt+right",
+    "command": "workbench.action.moveEditorToNextGroup"
+  },
+  {
+    "key": "ctrl+cmd+right",
+    "command": "-workbench.action.moveEditorToNextGroup"
+  },
+  {
+    "key": "ctrl+alt+left",
+    "command": "workbench.action.moveEditorToPreviousGroup"
+  },
+  {
+    "key": "ctrl+cmd+left",
+    "command": "-workbench.action.moveEditorToPreviousGroup"
+  },
 ]
