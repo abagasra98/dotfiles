@@ -1,0 +1,36 @@
+# Please indent options with one tab when editing defaults in
+# That matches how "git config --global" edits the file.
+
+[user]
+	name = ""
+	email = ""
+[push]
+	default = current
+# http://stackoverflow.com/questions/18257622/why-is-git-core-preloadindex-default-value-false
+[core]
+	preloadindex = true
+	editor = nvim
+[help]
+	# Automatically correct and execute mistyped commands such as `git stauts`
+	autocorrect = 1
+[pull]
+	rebase = true
+[alias]
+	co = checkout
+	d = diff
+	st = status
+	unstage = reset HEAD --
+	last = log -1 HEAD
+	br = branch
+	ci = commit
+	di = diff
+	sl = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative --all --since='5 days ago'
+	current = rev-parse --abbrev-ref HEAD
+	dw = diff --color-words
+	b = branch
+[color]
+	ui = auto
+[feature]
+	manyFiles = 1
+[commit]
+	gpgsign = true
